@@ -1,0 +1,12 @@
+[theme]
+backgroundColor = "#faeba7"
+primaryColor = "#3a787c"
+
+secondaryBackgroundColor = "#c4ba87"
+textColor = "#0f202a"
+
+# Fuente (opciones: "sans serif" | "serif" | "monospace")
+font = "sans serif"
+
+codeTextColor = "#95e0cf"
+codeBackgroundColor = "#0f202a"
