@@ -5,8 +5,8 @@ Modern football has evolved into a multi-billion dollar industry driven by data.
 
 ## Dataset Sources
 This project integrates two main data sources:
-* **Transfermarkt Dataset:** Provides historical records of player market valuations, transfers, and general player information.
-* **FBref Dataset (Europe's Top 5 Leagues 2017-2025):** Contains advanced performance metrics including expected goals (xG), expected assists (xA), progressive passes, and defensive actions.
+* **[Transfermarkt Dataset:](https://www.kaggle.com/datasets/davidcariboo/player-scores)** Provides historical records of player market valuations, transfers, and general player information.
+* **[FBref Dataset (Europe's Top 5 Leagues 2017-2025):](https://www.kaggle.com/datasets/emrey3lmaz/top-5-league-football-player-stats-2017-2025)** Contains advanced performance metrics including expected goals (xG), expected assists (xA), progressive passes, and defensive actions.
 
 ## Main Tools
 * **Python 3.11** 
