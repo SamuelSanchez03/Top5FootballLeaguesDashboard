@@ -166,7 +166,7 @@ def metodologia():
     
     st.header("Código Fuente y Repositorio")
     st.write("Revisa el histórico del proyecto, archivos Parquet de muestra y requerimientos. Puedes ver el cuaderno de trabajo con las operaciones vectorizadas y expresiones regulares de limpieza aquí:")
-    st.link_button("Ir a GitHub", "https://github.com/...")
+    st.link_button("Ir a GitHub", "https://github.com/SamuelSanchez03/Top5FootballLeaguesDashboard.git")
 
 def analisis_visual():
     render_visualizaciones(df_filtrado, df_valuations, df_transfers)
